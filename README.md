@@ -1,6 +1,5 @@
 # Autenticação JWT com Context API e React Router
 
-Estes são os arquivos iniciais da aula sobre Context API que está disponível no [YouTube](https://youtu.be/AClyxTbfI08).
 
 Este projeto utiliza o [Create React App](https://github.com/facebook/create-react-app) e uma API em NodeJS que não demanda nenhum banco de dados.
 
